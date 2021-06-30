@@ -1,11 +1,10 @@
 <h1 align="center">
   <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="[Project]">
   <br />
-  [Project]
+  Touch Pets Dogs 2 Rewritten (Snap edition)
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>“Single-line elevator pitch for your amazing snap”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
-distributions.</p>
+<p align="center"><b>This is the snap for Touch Pets Dogs 2 Rewritten</b>, <i>“A recreation of the classic mobile game, Touch Pets Dogs 2.”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -45,8 +44,8 @@ the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/mas
 upstream so [Project] can authoritatively publish future releases.
 
   - [x] Click the green "Use this template" button above to create a new repository based on this template
-  - [ ] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
-  - [ ] Update the description of the repository
+  - [X] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
+  - [X] Update the description of the repository
   - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
   - [ ] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
