@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="[Project]">
+  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Touch Pets Dogs 2 Rewritten (Snap edition)">
   <br />
   Touch Pets Dogs 2 Rewritten (Snap edition)
 </h1>
@@ -41,7 +41,7 @@
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
-upstream so [Project] can authoritatively publish future releases.
+upstream so the Touch Pets Dogs 2 Rewritten project can authoritatively publish future releases for the snapcraft platform.
 
   - [x] Click the green "Use this template" button above to create a new repository based on this template
   - [X] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
